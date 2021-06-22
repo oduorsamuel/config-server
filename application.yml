@@ -1,3 +1,7 @@
+  datasource:
+    url: jdbc:mysql://localhost:3306/employees_details
+    username: root
+
 eureka:
   client:
     register-with-eureka: true
